@@ -1,0 +1,3 @@
+[submodule "huashan"]
+	path = huashan
+	url = https://github.com/qingyizzz/huashan
